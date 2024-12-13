@@ -32,7 +32,7 @@ Plots of actual vs. predicted values are generated to visualize model performanc
 
 ## Requirements
 
-- Python 3.x
+- Python
 - pandas
 - numpy
 - matplotlib
